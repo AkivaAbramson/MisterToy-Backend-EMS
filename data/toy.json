@@ -12,7 +12,7 @@
   },
   {
     "name": "batman",
-    "price": 200,
+    "price": 300,
     "labels": [
       "Art"
     ],
@@ -32,17 +32,7 @@
     "_id": "iJjgv"
   },
   {
-    "name": "ironman",
-    "price": 180,
-    "labels": [
-      "Art"
-    ],
-    "createdAt": 1689688243921,
-    "inStock": false,
-    "_id": "qIpvO"
-  },
-  {
-    "name": "muki",
+    "name": "puki",
     "price": 300,
     "labels": [
       "Doll"
@@ -61,5 +51,35 @@
     "createdAt": 1689710694019,
     "inStock": false,
     "_id": "KgqX6"
+  },
+  {
+    "name": "Ironman",
+    "price": 200,
+    "labels": [
+      "Box game"
+    ],
+    "createdAt": 1689785269685,
+    "inStock": false,
+    "_id": "I1RzI"
+  },
+  {
+    "name": "Barbie",
+    "price": 80,
+    "labels": [
+      "Doll"
+    ],
+    "createdAt": 1689785335767,
+    "inStock": false,
+    "_id": "tce5r"
+  },
+  {
+    "name": "Bouncy Ball",
+    "price": 30,
+    "labels": [
+      "Doll"
+    ],
+    "createdAt": 1689785356009,
+    "inStock": false,
+    "_id": "eB1mK"
   }
 ]
