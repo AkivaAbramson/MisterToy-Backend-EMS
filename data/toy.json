@@ -1,0 +1,65 @@
+[
+  {
+    "name": "superman",
+    "price": 100,
+    "labels": [
+      "Art",
+      "Baby"
+    ],
+    "createdAt": 1689688213515,
+    "inStock": false,
+    "_id": "K5PqO"
+  },
+  {
+    "name": "batman",
+    "price": 200,
+    "labels": [
+      "Art"
+    ],
+    "createdAt": 1689688225204,
+    "inStock": false,
+    "_id": "s9j2Z"
+  },
+  {
+    "name": "spiderman",
+    "price": 150,
+    "labels": [
+      "Puzzle",
+      "Outdoor"
+    ],
+    "createdAt": 1689688233898,
+    "inStock": false,
+    "_id": "iJjgv"
+  },
+  {
+    "name": "ironman",
+    "price": 180,
+    "labels": [
+      "Art"
+    ],
+    "createdAt": 1689688243921,
+    "inStock": false,
+    "_id": "qIpvO"
+  },
+  {
+    "name": "muki",
+    "price": 300,
+    "labels": [
+      "Doll"
+    ],
+    "createdAt": 1689689398716,
+    "inStock": false,
+    "_id": "IffLF"
+  },
+  {
+    "name": "akiva",
+    "price": 50,
+    "labels": [
+      "On wheels",
+      "Box game"
+    ],
+    "createdAt": 1689710694019,
+    "inStock": false,
+    "_id": "KgqX6"
+  }
+]

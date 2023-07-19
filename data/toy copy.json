@@ -1,0 +1,26 @@
+[
+  {
+    "name": "superman",
+    "price": 0, 
+    "labels": [], 
+    "createdAt": 1689617327977, 
+    "inStock": false, 
+    "_id": "KToHL"
+  },
+  { 
+   "name": "batman", 
+   "price": 0, 
+   "labels": [], 
+   "createdAt": 1689617337689, 
+   "inStock": false, 
+   "_id": "CjNbz" 
+  },
+  {
+   "name": "ironman", 
+   "price": 300, 
+   "labels": [], 
+   "createdAt": 1689619658690, 
+   "inStock": false, 
+   "_id": "bHxUM"
+  }
+]
