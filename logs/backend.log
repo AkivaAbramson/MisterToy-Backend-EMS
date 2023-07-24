@@ -13,3 +13,259 @@
 19.7.2023, 21:49:23 - INFO - Server listening on port http://127.0.0.1:3030/
 20.7.2023, 9:04:51 - INFO - Server listening on port http://127.0.0.1:3030/
 20.7.2023, 9:14:10 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 16:39:04 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:25:30 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:55:08 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:55:21 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:55:31 - INFO - Req was made | /
+20.7.2023, 18:55:31 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 18:55:44 - INFO - Req was made | /
+20.7.2023, 18:55:44 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 19:30:02 - INFO - Req was made | /
+20.7.2023, 19:30:02 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 19:35:45 - INFO - Req was made | /
+20.7.2023, 19:35:45 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 19:37:27 - ERROR - while finding toy 64b94c04cd409b21049faf4d | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+20.7.2023, 19:37:27 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+20.7.2023, 19:37:44 - ERROR - while finding toy 64b94c04cd409b21049faf4d | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+20.7.2023, 19:37:44 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+20.7.2023, 19:38:32 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 19:39:53 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 19:39:55 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 19:40:02 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 19:46:21 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 19:46:43 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 19:48:51 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 19:49:34 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 19:52:38 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 19:52:47 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 19:54:37 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 19:54:42 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 19:55:42 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 19:55:44 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 19:58:55 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 19:58:57 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:02:57 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:03:31 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:03:44 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:03:56 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:03:59 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:04:19 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:04:28 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:04:41 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:06:24 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 20:07:11 - INFO - Req was made | /
+20.7.2023, 20:07:11 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:15:00 - INFO - Req was made | /
+20.7.2023, 20:15:00 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:15:43 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:15:43 - INFO - Req was made | /
+20.7.2023, 20:15:47 - INFO - Req was made | /
+20.7.2023, 20:15:47 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:17:45 - INFO - Req was made | /
+20.7.2023, 20:17:45 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:17:50 - INFO - Req was made | /
+20.7.2023, 20:17:50 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:19:13 - INFO - Req was made | /
+20.7.2023, 20:19:13 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:22:52 - INFO - Req was made | /
+20.7.2023, 20:22:52 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:22:54 - INFO - Req was made | /
+20.7.2023, 20:22:54 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:23:11 - INFO - Req was made | /
+20.7.2023, 20:23:11 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:24:10 - INFO - Req was made | /
+20.7.2023, 20:24:10 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:24:26 - INFO - Req was made | /
+20.7.2023, 20:24:26 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:36:18 - INFO - Req was made | /
+20.7.2023, 20:36:18 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:37:30 - INFO - Req was made | /
+20.7.2023, 20:37:30 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:37:32 - INFO - Req was made | /
+20.7.2023, 20:37:32 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:42:24 - INFO - Req was made | /
+20.7.2023, 20:42:24 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:45:52 - INFO - Req was made | /
+20.7.2023, 20:45:52 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:48:17 - INFO - Req was made | /
+20.7.2023, 20:48:17 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:49:16 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 20:49:16 - INFO - Req was made | /
+20.7.2023, 20:54:08 - INFO - Req was made | /
+20.7.2023, 20:54:08 - DEBUG - Getting Toys | {"txt":""}
+20.7.2023, 21:00:37 - INFO - Req was made | /
+20.7.2023, 21:00:37 - DEBUG - Getting Toys | {"txt":""}
+21.7.2023, 18:27:57 - INFO - Server listening on port http://127.0.0.1:3030/
+21.7.2023, 18:28:18 - INFO - Req was made | /
+21.7.2023, 18:28:18 - DEBUG - Getting Toys | {"txt":""}
+21.7.2023, 18:28:18 - INFO - Req was made | /
+21.7.2023, 18:28:18 - DEBUG - Getting Toys | {"txt":""}
+21.7.2023, 18:34:04 - INFO - Req was made | /
+21.7.2023, 18:34:04 - DEBUG - Getting Toys | {"txt":""}
+21.7.2023, 18:34:07 - DEBUG - Getting Toys | {"txt":""}
+21.7.2023, 18:34:07 - INFO - Req was made | /
+21.7.2023, 18:36:46 - INFO - Req was made | /
+21.7.2023, 18:36:46 - DEBUG - Getting Toys | {"txt":""}
+21.7.2023, 18:36:49 - INFO - Req was made | /
+21.7.2023, 18:36:49 - DEBUG - Getting Toys | {"txt":""}
+21.7.2023, 18:37:04 - INFO - Req was made | /
+21.7.2023, 18:37:04 - DEBUG - Getting Toys | {"txt":""}
+21.7.2023, 18:37:51 - INFO - Req was made | /
+21.7.2023, 18:37:51 - DEBUG - Getting Toys | {"txt":""}
+21.7.2023, 18:37:53 - INFO - Req was made | /
+21.7.2023, 18:37:53 - DEBUG - Getting Toys | {"txt":""}
+21.7.2023, 18:38:08 - INFO - Req was made | /
+21.7.2023, 18:38:08 - DEBUG - Getting Toys | {"txt":""}
+21.7.2023, 18:38:33 - INFO - Req was made | /
+21.7.2023, 18:38:33 - DEBUG - Getting Toys | {"txt":""}
+21.7.2023, 18:41:22 - DEBUG - Getting Toys | {"txt":""}
+21.7.2023, 18:41:22 - INFO - Req was made | /
+24.7.2023, 16:24:12 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2023, 16:24:27 - INFO - Req was made | /
+24.7.2023, 16:24:27 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:24:27 - INFO - Req was made | /
+24.7.2023, 16:24:27 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:24:56 - INFO - Req was made | /
+24.7.2023, 16:24:56 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:25:06 - INFO - Req was made | /
+24.7.2023, 16:25:06 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:28:42 - INFO - Req was made | /
+24.7.2023, 16:28:42 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:31:23 - INFO - Req was made | /
+24.7.2023, 16:31:23 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:32:20 - INFO - Req was made | /
+24.7.2023, 16:32:20 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:32:20 - INFO - Req was made | /
+24.7.2023, 16:32:20 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:32:38 - INFO - Req was made | /
+24.7.2023, 16:32:38 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:33:42 - INFO - Req was made | /
+24.7.2023, 16:33:42 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:33:42 - INFO - Req was made | /
+24.7.2023, 16:33:42 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:33:50 - INFO - Req was made | /
+24.7.2023, 16:33:50 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:34:36 - INFO - Req was made | /
+24.7.2023, 16:34:36 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:34:36 - INFO - Req was made | /
+24.7.2023, 16:34:36 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:34:47 - INFO - Req was made | /
+24.7.2023, 16:34:47 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:34:48 - INFO - Req was made | /
+24.7.2023, 16:34:48 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:34:56 - INFO - Req was made | /
+24.7.2023, 16:34:56 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:35:04 - INFO - Req was made | /
+24.7.2023, 16:35:04 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:35:04 - INFO - Req was made | /
+24.7.2023, 16:35:04 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:35:23 - INFO - Req was made | /
+24.7.2023, 16:35:23 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:35:23 - INFO - Req was made | /
+24.7.2023, 16:35:23 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:35:31 - INFO - Req was made | /
+24.7.2023, 16:35:31 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:35:44 - INFO - Req was made | /
+24.7.2023, 16:35:44 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:35:44 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:35:44 - INFO - Req was made | /
+24.7.2023, 16:36:22 - INFO - Req was made | /
+24.7.2023, 16:36:22 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:36:22 - INFO - Req was made | /
+24.7.2023, 16:36:22 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:36:27 - INFO - Req was made | /
+24.7.2023, 16:36:27 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:49:49 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:49:49 - INFO - Req was made | /
+24.7.2023, 16:49:49 - INFO - Req was made | /
+24.7.2023, 16:49:49 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:51:17 - INFO - Req was made | /
+24.7.2023, 16:51:17 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:51:25 - INFO - Req was made | /
+24.7.2023, 16:51:25 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:54:51 - INFO - Req was made | /
+24.7.2023, 16:54:51 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:54:51 - INFO - Req was made | /
+24.7.2023, 16:54:51 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:56:25 - INFO - Req was made | /
+24.7.2023, 16:56:25 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:56:41 - INFO - Req was made | /
+24.7.2023, 16:56:41 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:57:29 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:57:29 - INFO - Req was made | /
+24.7.2023, 16:57:36 - INFO - Req was made | /
+24.7.2023, 16:57:36 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 16:57:49 - INFO - Req was made | /
+24.7.2023, 16:57:49 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 17:06:08 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 17:06:08 - INFO - Req was made | /
+24.7.2023, 17:06:08 - INFO - Req was made | /
+24.7.2023, 17:06:08 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 17:10:53 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 17:10:53 - INFO - Req was made | /
+24.7.2023, 17:13:27 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2023, 17:13:29 - INFO - Req was made | /
+24.7.2023, 17:13:29 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 17:15:10 - INFO - Req was made | /
+24.7.2023, 17:15:10 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 17:19:50 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2023, 17:23:24 - INFO - Req was made | /
+24.7.2023, 17:23:24 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 17:23:32 - INFO - Req was made | /
+24.7.2023, 17:23:32 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 17:23:44 - INFO - Req was made | /
+24.7.2023, 17:23:44 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:13:01 - INFO - Req was made | /
+24.7.2023, 18:13:01 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:13:18 - INFO - Req was made | /
+24.7.2023, 18:13:18 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:13:19 - DEBUG - auth.service - login with username: 
+24.7.2023, 18:13:20 - ERROR - Failed to Login Error: Invalid username or password
+24.7.2023, 18:15:54 - INFO - Req was made | /
+24.7.2023, 18:15:54 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:19:59 - INFO - Req was made | /
+24.7.2023, 18:19:59 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:20:09 - DEBUG - auth.service - login with username: 
+24.7.2023, 18:20:09 - ERROR - Failed to Login Error: Invalid username or password
+24.7.2023, 18:24:38 - INFO - Req was made | /
+24.7.2023, 18:24:38 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:25:25 - INFO - Req was made | /
+24.7.2023, 18:25:25 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:29:29 - INFO - Req was made | /
+24.7.2023, 18:29:29 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:30:26 - INFO - Req was made | /
+24.7.2023, 18:30:26 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:33:09 - INFO - Req was made | /
+24.7.2023, 18:33:09 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:34:58 - INFO - Req was made | /
+24.7.2023, 18:34:58 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:37:59 - DEBUG - auth.service - login with username: undefined
+24.7.2023, 18:37:59 - ERROR - Failed to Login Error: Invalid username or password
+24.7.2023, 18:37:59 - INFO - Req was made | /
+24.7.2023, 18:37:59 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:38:15 - INFO - Req was made | /
+24.7.2023, 18:38:15 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:38:45 - INFO - Req was made | /
+24.7.2023, 18:38:45 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:40:04 - INFO - Req was made | /
+24.7.2023, 18:40:04 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:40:10 - DEBUG - auth.service - login with username: 
+24.7.2023, 18:40:10 - ERROR - Failed to Login Error: Invalid username or password
+24.7.2023, 18:40:10 - DEBUG - auth.service - login with username: 
+24.7.2023, 18:40:10 - ERROR - Failed to Login Error: Invalid username or password
+24.7.2023, 18:40:13 - DEBUG - auth.service - login with username: 
+24.7.2023, 18:40:13 - ERROR - Failed to Login Error: Invalid username or password
+24.7.2023, 18:40:37 - DEBUG - auth.service - login with username: 
+24.7.2023, 18:40:37 - ERROR - Failed to Login Error: Invalid username or password
+24.7.2023, 18:42:23 - DEBUG - auth.service - login with username: a
+24.7.2023, 18:42:23 - INFO - User login:  | {"_id":"64be7101823bee64b56a3701","username":"a","isAdmin":true}
+24.7.2023, 18:42:44 - DEBUG - auth.service - login with username: b
+24.7.2023, 18:42:44 - INFO - User login:  | {"_id":"64be7101823bee64b56a3702","username":"b","isAdmin":false}
+24.7.2023, 18:42:50 - INFO - Req was made | /
+24.7.2023, 18:42:50 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 18:43:22 - DEBUG - auth.service - login with username: a
+24.7.2023, 18:43:22 - INFO - User login:  | {"_id":"64be7101823bee64b56a3701","username":"a","isAdmin":true}
+24.7.2023, 18:43:52 - DEBUG - auth.service - login with username: b
+24.7.2023, 18:43:52 - INFO - User login:  | {"_id":"64be7101823bee64b56a3702","username":"b","isAdmin":false}
+24.7.2023, 18:49:52 - INFO - Server listening on port http://127.0.0.1:3030/
