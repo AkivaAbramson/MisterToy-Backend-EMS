@@ -288,3 +288,19 @@
 24.7.2023, 19:07:41 - DEBUG - auth.service - login with username: a
 24.7.2023, 19:07:41 - INFO - User login:  | {"_id":"64be7101823bee64b56a3701","username":"a","isAdmin":true}
 24.7.2023, 19:10:11 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2023, 19:19:17 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2023, 19:19:28 - DEBUG - auth.service - login with username: c
+24.7.2023, 19:19:28 - INFO - User login:  | {"_id":"64bea46f0efefe95edf7a798","username":"c","isAdmin":false}
+24.7.2023, 22:54:31 - DEBUG - auth.service - login with username: b
+24.7.2023, 22:54:31 - INFO - User login:  | {"_id":"64be7101823bee64b56a3702","username":"b","isAdmin":false}
+24.7.2023, 22:55:01 - DEBUG - auth.service - login with username: a
+24.7.2023, 22:55:01 - INFO - User login:  | {"_id":"64be7101823bee64b56a3701","username":"a","isAdmin":true}
+24.7.2023, 22:57:41 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2023, 22:57:51 - INFO - Req was made | /
+24.7.2023, 22:57:51 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 22:59:29 - DEBUG - Getting Toys | {"txt":""}
+24.7.2023, 22:59:29 - INFO - Req was made | /
+24.7.2023, 22:59:34 - DEBUG - auth.service - login with username: a
+24.7.2023, 22:59:35 - INFO - User login:  | {"_id":"64be7101823bee64b56a3701","username":"a","isAdmin":true}
+24.7.2023, 23:02:49 - INFO - Req was made | /
+24.7.2023, 23:02:49 - DEBUG - Getting Toys | {"txt":""}
